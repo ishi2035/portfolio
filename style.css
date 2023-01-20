@@ -1,0 +1,135 @@
+a {
+    color: #11999E;
+    margin: 20px;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+div {
+    margin: 0px;
+}
+
+h1 {
+    font-size: 500%;
+    /* 16px = 1rem */
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: #66BFBF;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+hr {
+    border-style: dotted none none;
+    margin: 40px auto;
+    width: 5%;
+    border-width: 5px;
+    border-color: grey;
+    /* background-color: white; */
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+hr {}
+
+
+/* classes */
+
+.btn {
+    border-radius: 8px;
+    background-image: linear-gradient(#11cdd4, #11999e);
+    padding: 10px;
+    line-height: 2;
+}
+
+.btn:hover {
+    background-image: linear-gradient(#30e3cb, #2bc4ad);
+}
+
+.im {
+    width: 25%;
+    margin-right: 20px;
+}
+
+.one {
+    background-color: #e4f5f9;
+}
+
+.three {
+    margin-top: 100px;
+    background-color: #66BFBF;
+    padding-top: 50px;
+    height: 100px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+    text-align: left;
+    /* margin-left: 10px; */
+}
+
+
+/* Id */
+
+#i1 {
+    float: left;
+}
+
+#i2 {
+    float: right;
+}
+
+#i3 {
+    float: left;
+}
+
+#bcloud {
+    position: absolute;
+}
+
+#pp {
+    margin-top: 40px;
+    width: 20%;
+}
+
+#top_cloud {
+    position: relative;
+    margin-left: 350px;
+    margin-top: 60px;
+}
+
+#intro {
+    line-height: 2;
+    /* text-align: justify; */
+}
+
+#l {
+    font-size: small;
+    color: #eaf6f6;
+    margin-top: 40px;
+}
+
+
+/* .two {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border: solid 20px;
+    border-color: black;
+    margin-left: 260px;
+    /* padding: 20px; }*/
